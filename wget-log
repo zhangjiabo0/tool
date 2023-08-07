@@ -1,0 +1,8 @@
+--2023-04-13 22:53:00--  https://www.hdchina.net/forum.php?mod=attachment
+Resolving www.hdchina.net (www.hdchina.net)... 104.21.77.186, 172.67.210.243
+Connecting to www.hdchina.net (www.hdchina.net)|104.21.77.186|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+forum.php?mod=attachment: Protocol error
+
+Cannot write to ‘forum.php?mod=attachment’ (Success).
